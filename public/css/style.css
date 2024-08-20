@@ -1,0 +1,65 @@
+.home-btn{
+    color: rgb(0, 0, 0);
+    
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: x-large;
+       text-align: center;
+       margin-bottom: 10px;
+       text-decoration: none;
+       border-radius: 5px;
+       border-color: black;
+       margin-right: 20px;
+       background-color: white;
+       transition: background-color 1s;
+      }
+.home-btn:hover{
+    background-color: black;
+    color: white;
+}
+    
+
+.navigation-panel{
+    background-image: url('Picsart_24-02-21_22-13-28-661.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    
+    margin-bottom: 50%;
+}
+.home-btn,.navigation-panel,.logo{
+    text-align: center;
+}
+.footer-page{
+    background-image: url('-1_orig (1).jpeg');
+    text-align: center;
+}
+.body {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+    
+  }
+.bag{
+    text-align: right;
+}
+.j{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+}
+.pay{
+    display: inline-block;
+}
+.ab{
+    background-color: #b0a999;
+}
+
+  
